@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://example.org/
 languageCode: en-us
 title: ROP-Lobsters
 theme: "PaperMod"
@@ -43,13 +43,14 @@ params:
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    # favicon: "<link / abs url>"
-    # favicon16x16: "<link / abs url>"
-    # favicon32x32: "<link / abs url>"
-    # apple_touch_icon: "<link / abs url>"
-    # safari_pinned_tab: "<link / abs url>"
+    disableHLJS: true
+    disableFingerprinting: true
+    favicon: "/logo/favicon.ico"
+    favicon16x16: "/logo/favicon-16x16.png"
+    favicon32x32: "/logo/favicon-32x32.png"
+    apple_touch_icon: "/logo/apple_touch_icon.png"
+    android-chrome-192x192: "/logo/android-chrome-192x192.png"
+    android-chrome-512x512: "/logo/android-chrome-512x512.png"
 
   label:
     text: "Home"
@@ -73,12 +74,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to ROP-Lobsters Podcast!
+    Title: "Hi there \U0001F99E"
+    Content: "Welcome to ROP-Lobsters Podcast!"
 
-  # socialIcons:
-  #   - name: twitter
-  #     url: "https://twitter.com/"
+  socialIcons:
+    - name: spotify
+      url: "https://open.spotify.com/show/3xNtp27g90IRWzwNuTAiaD"
   #   - name: stackoverflow
   #     url: "https://stackoverflow.com"
   #   - name: github
@@ -97,10 +98,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -122,17 +123,21 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: search
+      name: search
+      url: /search/
       weight: 30
+    - identifier: archive
+      name: archives
+      url: /archives/
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: monokai
