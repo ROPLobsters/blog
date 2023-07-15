@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Episodes on ROP-Lobsters</title>
+    <link>https://example.org/episodes/</link>
+    <description>Recent content in Episodes on ROP-Lobsters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jun 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://example.org/episodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#12: Federal Critical Infrastructure Oversight, BatCloak, Attacks on Hospitals, and Maryland&#39;s Moves to Get Serious on Cyber</title>
+      <link>https://example.org/episodes/rop-e12/</link>
+      <pubDate>Tue, 20 Jun 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://example.org/episodes/rop-e12/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>#11: AI Grandparent Scams, Our Code is Rusty, and Gigabyte Backdoors</title>
+      <link>https://example.org/episodes/rop-e11/</link>
+      <pubDate>Tue, 06 Jun 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://example.org/episodes/rop-e11/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>#10: United States Cyber Team Captain Sears Schulz, Russian Linux Distributions, and Connected SOCs in the European Union</title>
+      <link>https://example.org/episodes/rop-e10/</link>
+      <pubDate>Tue, 23 May 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://example.org/episodes/rop-e10/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>#9: Cascading Supply Chain Attacks, Dream Jobs, and Chrome Vulnerabilities</title>
+      <link>https://example.org/episodes/rop-e9/</link>
+      <pubDate>Tue, 09 May 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://example.org/episodes/rop-e9/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>#8: A New WiFi Vulnerability, Stealing Cars with CAN Injection, the IRS Failing a Cyber Audit, and Malware Targeting Tax Filers</title>
+      <link>https://example.org/episodes/rop-e8/</link>
+      <pubDate>Thu, 13 Apr 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://example.org/episodes/rop-e8/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>#7 Cyber Expert Michael Miora, SCADA Systems, the EPA, and the Banking Crisis</title>
+      <link>https://example.org/episodes/rop-e7/</link>
+      <pubDate>Wed, 29 Mar 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://example.org/episodes/rop-e7/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>#6 CISA, LastPass, Britain&#39;s Computer Misuse Act, and User Centered Security Practices for Local Government</title>
+      <link>https://example.org/episodes/rop-e6/</link>
+      <pubDate>Sun, 12 Mar 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://example.org/episodes/rop-e6/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>#5: DEF CON Champion John Johnson, CTFs, The Stack, AI and Ethics</title>
+      <link>https://example.org/episodes/rop-e5/</link>
+      <pubDate>Wed, 22 Feb 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://example.org/episodes/rop-e5/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>#4: Wiperware, the Second Order Affects of Ransomware, the Cyber Poverty Line, Meta&#39;s Bug Bounty, and a Proposal from TikTok to Maintain Business in the U.S.</title>
+      <link>https://example.org/episodes/rop-e4/</link>
+      <pubDate>Mon, 13 Feb 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://example.org/episodes/rop-e4/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>#3: Supply-Chain Attacks, the Future of Cryptocurrency and Cyber Crime, Governmental Ransomware Takedowns, and MITRE eCTF</title>
+      <link>https://example.org/episodes/rop-e3/</link>
+      <pubDate>Mon, 23 Jan 2023 00:04:02 -0800</pubDate>
+      
+      <guid>https://example.org/episodes/rop-e3/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>#2: Rust in the Linux Kernel, Cyber Warfare, and Attacks on Critical Infrastructure </title>
+      <link>https://example.org/episodes/rop-e2/</link>
+      <pubDate>Mon, 23 Jan 2023 00:03:02 -0800</pubDate>
+      
+      <guid>https://example.org/episodes/rop-e2/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>#1: Signature-Based Detection, Weak Hashes, TikTok Malware, and More!</title>
+      <link>https://example.org/episodes/rop-e1/</link>
+      <pubDate>Mon, 23 Jan 2023 00:02:02 -0800</pubDate>
+      
+      <guid>https://example.org/episodes/rop-e1/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>#0: Introduction</title>
+      <link>https://example.org/episodes/rop-e0/</link>
+      <pubDate>Mon, 23 Jan 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://example.org/episodes/rop-e0/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
