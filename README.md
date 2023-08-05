@@ -2,6 +2,9 @@
 
 This repo maintains the blog for ROP-Lobsters podcast!
 
+> NOTE: Hugo version is pinned in `.github/workflows/.gh-pages.yml` workflow.
+Locally deploy test before up-leveling.
+
 ### Development
 
 Installation: https://gohugo.io/installation/
@@ -9,6 +12,19 @@ Installation: https://gohugo.io/installation/
 This repo is powered by:
 - Hugo Framework - [link](https://gohugo.io/about/)
 - PaperMod Theme - [link](https://github.com/adityatelange/hugo-PaperMod/wiki/)
+
+#### Updating PaperMod theme
+
+We consume the main branch of PaperMod Theme - [link](https://github.com/adityatelange/hugo-PaperMod/wiki/). In order to pull the latest version of the theme follow:
+
+```
+# Init and realize that there are submodules
+git submodule update --init
+# Pull the latest commit from remote
+git submodule update --remote --merge
+```
+
+Then it should show under diff, commit it normally like any other change.
 
 #### Local Dev
 To spin up a local web-server, run the command from **root of this project**:
