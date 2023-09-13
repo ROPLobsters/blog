@@ -7,6 +7,8 @@ draft: false
 
 {{< spotify type="episode" id="7acBbb7R3pRGVhJPhddNHD" width="100%" height="250" >}}
 
+{{< audio src="https://s3.tebi.io/rop-lobsters/ROP-E11.mp3" class="something" caption="ROP-E11: HTML5 Audio ^" >}}
+
 We're back with episode 11! This time listen in to hear Austin and Nathan discuss how AI could be used to fool your [Grandma](https://www.tmj4.com/news/i-team/cyber-security-experts-law-enforcement-warn-of-uptick-in-ai-scams), why [Rust](https://www.analyticsinsight.net/how-mastering-rust-can-advance-your-career-in-cybersecurity/) is the future of compiled code, and the reason you might want to pull out of your investment in the [Gigabyte](https://www.securityweek.com/organizations-warned-of-backdoor-feature-in-hundreds-of-gigabyte-motherboards/) computer hardware company. Boy, oh boy do they have all the answers in this one!
 
 As always, reach out at roplobsters@gmail.com with your thoughts and questions!

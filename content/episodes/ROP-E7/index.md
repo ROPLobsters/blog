@@ -7,4 +7,6 @@ draft: false
 
 {{< spotify type="episode" id="5Zc9qRDj9q0PRAAVr1XBgs" width="100%" height="250" >}}
 
+{{< audio src="https://s3.tebi.io/rop-lobsters/ROP-E7.mp3" class="something" caption="ROP-E7: HTML5 Audio ^" >}}
+
 Austin and Nathan are joined by Michael Miora, one of the founding fathers of cybersecurity. Together they discuss a variety of topics including Michael's career, [new regulations from the EPA](https://www.epa.gov/newsreleases/epa-takes-action-improve-cybersecurity-resilience-public-water-systems), and the effect that the [current financial instability](https://www.linkedin.com/posts/mmiora_security-and-the-banking-crisis-activity-7043637710930001920-ZDLK?utm_source=share&utm_medium=member_desktop) has on the world of cybersecurity. Be sure to listen in!
