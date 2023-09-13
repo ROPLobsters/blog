@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>crypto on ROP-Lobsters</title>
+    <link>https://www.roplobsters.com/tags/crypto/</link>
+    <description>Recent content in crypto on ROP-Lobsters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jan 2023 00:04:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#3: Supply-Chain Attacks, the Future of Cryptocurrency and Cyber Crime, Governmental Ransomware Takedowns, and MITRE eCTF</title>
+      <link>https://www.roplobsters.com/episodes/rop-e3/</link>
+      <pubDate>Mon, 23 Jan 2023 00:04:02 -0800</pubDate>
+      
+      <guid>https://www.roplobsters.com/episodes/rop-e3/</guid>
+      <description>ROP-E3: HTML5 Audio ^ Austin and Nathan discuss the recent supply-chain attack targeting PyTorch, new trends in the use of cryptocurrency for cyber crime, governmental agencies stepping up to decrypt systems affected by ransomware, and embedded CTF competitions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rootkits on ROP-Lobsters</title>
+    <link>https://www.roplobsters.com/tags/rootkits/</link>
+    <description>Recent content in rootkits on ROP-Lobsters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jun 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/rootkits/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#12: Federal Critical Infrastructure Oversight, BatCloak, Attacks on Hospitals, and Maryland&#39;s Moves to Get Serious on Cyber</title>
+      <link>https://www.roplobsters.com/episodes/rop-e12/</link>
+      <pubDate>Tue, 20 Jun 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://www.roplobsters.com/episodes/rop-e12/</guid>
+      <description>ROP-E12: HTML5 Audio ^ In this episode, Austin and Nathan untangle the web of government oversight responsibilities for different critical infrastructure industries, discuss the stealth capabilities of BatCloak, explore villainous ransomware attacks against hospitals, and examine how the state of Maryland is turning small businesses into security superheroes all while making various allusions to Spiderman in honor of &amp;ldquo;Spider-Man: Across the Spider-Verse&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

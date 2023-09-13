@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>existential threat on ROP-Lobsters</title>
+    <link>https://www.roplobsters.com/tags/existential-threat/</link>
+    <description>Recent content in existential threat on ROP-Lobsters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 May 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/existential-threat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#9: Cascading Supply Chain Attacks, Dream Jobs, and Chrome Vulnerabilities</title>
+      <link>https://www.roplobsters.com/episodes/rop-e9/</link>
+      <pubDate>Tue, 09 May 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://www.roplobsters.com/episodes/rop-e9/</guid>
+      <description>ROP-E9: HTML5 Audio ^ In this episode Austin and Nathan examine the 3CX debacle, which leads to discussion of the existential threat of increasing complication and over-specialization. Then, they talk about how much money security researchers made when they helped Google fix a few issues in the Chrome Browser. Was it enough to continue to dissuade highly skilled technicians from joining the dark side? Last, join as they discuss why you might need to think twice before opening that job description a recruiter sent you on LinkedIn, especially if it is your dream job.</description>
+    </item>
+    
+  </channel>
+</rss>

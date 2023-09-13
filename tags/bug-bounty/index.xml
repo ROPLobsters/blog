@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>bug bounty on ROP-Lobsters</title>
+    <link>https://www.roplobsters.com/tags/bug-bounty/</link>
+    <description>Recent content in bug bounty on ROP-Lobsters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Feb 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/bug-bounty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#4: Wiperware, the Second Order Affects of Ransomware, the Cyber Poverty Line, Meta&#39;s Bug Bounty, and a Proposal from TikTok to Maintain Business in the U.S.</title>
+      <link>https://www.roplobsters.com/episodes/rop-e4/</link>
+      <pubDate>Mon, 13 Feb 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://www.roplobsters.com/episodes/rop-e4/</guid>
+      <description>ROP-E4: HTML5 Audio ^ Austin and Nathan discuss the scourge of wiperware malware targeting Ukraine, the devastating ransomware attack against London&amp;rsquo;s Hackney Council, surviving below the cyber poverty line, and Meta&amp;rsquo;s recent bug bounty payout.
+Finally, Nathan continues his TikTok obsession with an article describing the company&amp;rsquo;s proposal to maintain business in the U.S. amidst fears for data protection.
+Also, we promised in this podcast to provide a link to a course that would be helpful for those new to security.</description>
+    </item>
+    
+  </channel>
+</rss>

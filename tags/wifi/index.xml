@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>wifi on ROP-Lobsters</title>
+    <link>https://www.roplobsters.com/tags/wifi/</link>
+    <description>Recent content in wifi on ROP-Lobsters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Apr 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#8: A New WiFi Vulnerability, Stealing Cars with CAN Injection, the IRS Failing a Cyber Audit, and Malware Targeting Tax Filers</title>
+      <link>https://www.roplobsters.com/episodes/rop-e8/</link>
+      <pubDate>Thu, 13 Apr 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://www.roplobsters.com/episodes/rop-e8/</guid>
+      <description>ROP-E8: HTML5 Audio ^ While you&amp;rsquo;re gathering your most sensitive data this tax season, tune in to learn how the IRS was found lacking in a recent cyber security audit. Additionally, we cover malware targeting tax filers, hackers stealing cars, and techniques that intercept network traffic with recently discovered vulnerabilities.</description>
+    </item>
+    
+  </channel>
+</rss>

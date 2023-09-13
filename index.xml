@@ -6,14 +6,41 @@
     <description>Recent content on ROP-Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jun 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Aug 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#15: Citrix Backdoors, Post Quantum Crypto, Anti-bot AI, and Security for Kids</title>
+      <link>https://www.roplobsters.com/episodes/rop-e15/</link>
+      <pubDate>Thu, 31 Aug 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://www.roplobsters.com/episodes/rop-e15/</guid>
+      <description>ROP-E15: HTML5 Audio ^ Austin and Nathan are back at it! This time they discuss a current epidemic of citrix device backdoor installations, and some recent publications detailing hopeful post-quantum cryptographic solutions. They also discuss the ways some are using AI to fight botnets and current efforts to give cyber security license training to students.</description>
+    </item>
+    
+    <item>
+      <title>#14: Professor of Computer Science Dr. Martin Carlisle, the Cyber Trust Mark, Formal Verification, and Cyber Education</title>
+      <link>https://www.roplobsters.com/episodes/rop-e14/</link>
+      <pubDate>Tue, 08 Aug 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://www.roplobsters.com/episodes/rop-e14/</guid>
+      <description>ROP-E14: HTML5 Audio ^ We have the great pleasure of being joined by Dr. Martin Carlisle, a highly respected expert in cyber security and Professor of Computer Science at Texas A&amp;amp;M University. Listen as the Lobsters and Dr. Carlisle discuss the White House&amp;rsquo;s new Cyber Trust Mark for IOT devices (see the following for more technical information), formal verification for secure programs, and the joy of teaching computer science to English majors.</description>
+    </item>
+    
+    <item>
+      <title>#13: DDoSia, Nagoya Ransomware, Confidential Computing and Linux Security</title>
+      <link>https://www.roplobsters.com/episodes/rop-e13/</link>
+      <pubDate>Wed, 19 Jul 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://www.roplobsters.com/episodes/rop-e13/</guid>
+      <description>ROP-E13: HTML5 Audio ^ Join Austin and Nathan on this episode of ROP Lobsters! In this episode they start with a discussion on a botnet with possible Russian ties. They then move on to discuss a push for confidential cloud computing and issues at a Japanese port with Ransomware. The episode wraps up with a rousing discussion of the state of Linux security at-large!</description>
+    </item>
+    
     <item>
       <title>#12: Federal Critical Infrastructure Oversight, BatCloak, Attacks on Hospitals, and Maryland&#39;s Moves to Get Serious on Cyber</title>
       <link>https://www.roplobsters.com/episodes/rop-e12/</link>
       <pubDate>Tue, 20 Jun 2023 00:01:02 -0800</pubDate>
       
       <guid>https://www.roplobsters.com/episodes/rop-e12/</guid>
-      <description> </description>
+      <description>ROP-E12: HTML5 Audio ^ In this episode, Austin and Nathan untangle the web of government oversight responsibilities for different critical infrastructure industries, discuss the stealth capabilities of BatCloak, explore villainous ransomware attacks against hospitals, and examine how the state of Maryland is turning small businesses into security superheroes all while making various allusions to Spiderman in honor of &amp;ldquo;Spider-Man: Across the Spider-Verse&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -22,7 +49,8 @@
       <pubDate>Tue, 06 Jun 2023 00:01:02 -0800</pubDate>
       
       <guid>https://www.roplobsters.com/episodes/rop-e11/</guid>
-      <description> </description>
+      <description>ROP-E11: HTML5 Audio ^ We&amp;rsquo;re back with episode 11! This time listen in to hear Austin and Nathan discuss how AI could be used to fool your Grandma, why Rust is the future of compiled code, and the reason you might want to pull out of your investment in the Gigabyte computer hardware company. Boy, oh boy do they have all the answers in this one!
+As always, reach out at roplobsters@gmail.</description>
     </item>
     
     <item>
@@ -31,7 +59,7 @@
       <pubDate>Tue, 23 May 2023 00:01:02 -0800</pubDate>
       
       <guid>https://www.roplobsters.com/episodes/rop-e10/</guid>
-      <description> </description>
+      <description>ROP-E10: HTML5 Audio ^ Join us for an interview with the United States Cyber Team&amp;rsquo;s captain, Sears Schulz. Sears is an Air Force cyber officer, an expert in fuzzing, and CTF champion. In the interview, Austin, Nathan, and Sears discuss how to build a championship CTF team, the intricacies of distributed fuzzing, and why soft skills are critical for cyber security professionals. Next, Austin, Nathan, and Sears discuss a new Russian Linux Distribution and the European Union&amp;rsquo;s plan to connect SOCs across the continent.</description>
     </item>
     
     <item>
@@ -40,7 +68,7 @@
       <pubDate>Tue, 09 May 2023 00:01:02 -0800</pubDate>
       
       <guid>https://www.roplobsters.com/episodes/rop-e9/</guid>
-      <description> </description>
+      <description>ROP-E9: HTML5 Audio ^ In this episode Austin and Nathan examine the 3CX debacle, which leads to discussion of the existential threat of increasing complication and over-specialization. Then, they talk about how much money security researchers made when they helped Google fix a few issues in the Chrome Browser. Was it enough to continue to dissuade highly skilled technicians from joining the dark side? Last, join as they discuss why you might need to think twice before opening that job description a recruiter sent you on LinkedIn, especially if it is your dream job.</description>
     </item>
     
     <item>
@@ -49,7 +77,7 @@
       <pubDate>Thu, 13 Apr 2023 00:01:02 -0800</pubDate>
       
       <guid>https://www.roplobsters.com/episodes/rop-e8/</guid>
-      <description> </description>
+      <description>ROP-E8: HTML5 Audio ^ While you&amp;rsquo;re gathering your most sensitive data this tax season, tune in to learn how the IRS was found lacking in a recent cyber security audit. Additionally, we cover malware targeting tax filers, hackers stealing cars, and techniques that intercept network traffic with recently discovered vulnerabilities.</description>
     </item>
     
     <item>
@@ -58,7 +86,7 @@
       <pubDate>Wed, 29 Mar 2023 00:01:02 -0800</pubDate>
       
       <guid>https://www.roplobsters.com/episodes/rop-e7/</guid>
-      <description> </description>
+      <description>ROP-E7: HTML5 Audio ^ Austin and Nathan are joined by Michael Miora, one of the founding fathers of cybersecurity. Together they discuss a variety of topics including Michael&amp;rsquo;s career, new regulations from the EPA, and the effect that the current financial instability has on the world of cybersecurity. Be sure to listen in!</description>
     </item>
     
     <item>
@@ -67,7 +95,7 @@
       <pubDate>Sun, 12 Mar 2023 00:01:02 -0800</pubDate>
       
       <guid>https://www.roplobsters.com/episodes/rop-e6/</guid>
-      <description> </description>
+      <description>ROP-E6: HTML5 Audio ^ Austin and Nathan chat about calls for new cybersecurity regulation in the United States, the LastPass debacle, Britain taking on an aging cybersecurity law, and user centered cybersecurity approaches for local governments.</description>
     </item>
     
     <item>
@@ -76,7 +104,7 @@
       <pubDate>Wed, 22 Feb 2023 00:01:02 -0800</pubDate>
       
       <guid>https://www.roplobsters.com/episodes/rop-e5/</guid>
-      <description> </description>
+      <description>ROP-E5: HTML5 Audio ^ Austin and Nathan are joined this time by John Johnson, CTF champion extraordinaire. Listen in to hear John&amp;rsquo;s amazing story, as well as his thoughts on the future of security in a world impacted by increasingly sophisticated AI. Austin and Nathan also chime in with their thoughts and reminisce about learning all about the stack. Sadly, John doesn&amp;rsquo;t share how to win at Rocket League in this episode.</description>
     </item>
     
     <item>
@@ -85,7 +113,9 @@
       <pubDate>Mon, 13 Feb 2023 00:01:02 -0800</pubDate>
       
       <guid>https://www.roplobsters.com/episodes/rop-e4/</guid>
-      <description> </description>
+      <description>ROP-E4: HTML5 Audio ^ Austin and Nathan discuss the scourge of wiperware malware targeting Ukraine, the devastating ransomware attack against London&amp;rsquo;s Hackney Council, surviving below the cyber poverty line, and Meta&amp;rsquo;s recent bug bounty payout.
+Finally, Nathan continues his TikTok obsession with an article describing the company&amp;rsquo;s proposal to maintain business in the U.S. amidst fears for data protection.
+Also, we promised in this podcast to provide a link to a course that would be helpful for those new to security.</description>
     </item>
     
     <item>
@@ -94,7 +124,7 @@
       <pubDate>Mon, 23 Jan 2023 00:04:02 -0800</pubDate>
       
       <guid>https://www.roplobsters.com/episodes/rop-e3/</guid>
-      <description> </description>
+      <description>ROP-E3: HTML5 Audio ^ Austin and Nathan discuss the recent supply-chain attack targeting PyTorch, new trends in the use of cryptocurrency for cyber crime, governmental agencies stepping up to decrypt systems affected by ransomware, and embedded CTF competitions.</description>
     </item>
     
     <item>
@@ -103,7 +133,7 @@
       <pubDate>Mon, 23 Jan 2023 00:03:02 -0800</pubDate>
       
       <guid>https://www.roplobsters.com/episodes/rop-e2/</guid>
-      <description> </description>
+      <description>ROP-E2: HTML5 Audio ^ Austin and Nathan discuss the inclusion of a new programming language to enhance the security of the Linux kernel, potential restructuring of the NSA and U.S. Cyber Command, cyber attacks against U.S. ports, and Gmail&amp;rsquo;s new client-side encryption features.</description>
     </item>
     
     <item>
@@ -112,7 +142,7 @@
       <pubDate>Mon, 23 Jan 2023 00:02:02 -0800</pubDate>
       
       <guid>https://www.roplobsters.com/episodes/rop-e1/</guid>
-      <description> </description>
+      <description>ROP-E1: HTML5 Audio ^ Austin and Nathan rant about the failings of signature based detection, explore the impact of weak hashing algorithms, discuss proposed requirements to add cybersecurity experts to corporate boards, the success of TikTok malware, and more!</description>
     </item>
     
     <item>
@@ -121,7 +151,17 @@
       <pubDate>Mon, 23 Jan 2023 00:01:02 -0800</pubDate>
       
       <guid>https://www.roplobsters.com/episodes/rop-e0/</guid>
-      <description> </description>
+      <description>ROP-E0: HTML5 Audio ^ Welcome to the ROP Lobsters Podcast!
+This episode is a brief introduction to our podcast and the hosts, Austin and Nathan.</description>
+    </item>
+    
+    <item>
+      <title>&gt; whoarewe</title>
+      <link>https://www.roplobsters.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.roplobsters.com/about/</guid>
+      <description>about</description>
     </item>
     
     

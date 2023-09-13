@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>philosophy on ROP-Lobsters</title>
+    <link>https://www.roplobsters.com/tags/philosophy/</link>
+    <description>Recent content in philosophy on ROP-Lobsters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Aug 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#14: Professor of Computer Science Dr. Martin Carlisle, the Cyber Trust Mark, Formal Verification, and Cyber Education</title>
+      <link>https://www.roplobsters.com/episodes/rop-e14/</link>
+      <pubDate>Tue, 08 Aug 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://www.roplobsters.com/episodes/rop-e14/</guid>
+      <description>ROP-E14: HTML5 Audio ^ We have the great pleasure of being joined by Dr. Martin Carlisle, a highly respected expert in cyber security and Professor of Computer Science at Texas A&amp;amp;M University. Listen as the Lobsters and Dr. Carlisle discuss the White House&amp;rsquo;s new Cyber Trust Mark for IOT devices (see the following for more technical information), formal verification for secure programs, and the joy of teaching computer science to English majors.</description>
+    </item>
+    
+  </channel>
+</rss>

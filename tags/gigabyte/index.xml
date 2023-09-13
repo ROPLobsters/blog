@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gigabyte on ROP-Lobsters</title>
+    <link>https://www.roplobsters.com/tags/gigabyte/</link>
+    <description>Recent content in Gigabyte on ROP-Lobsters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Jun 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/gigabyte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#11: AI Grandparent Scams, Our Code is Rusty, and Gigabyte Backdoors</title>
+      <link>https://www.roplobsters.com/episodes/rop-e11/</link>
+      <pubDate>Tue, 06 Jun 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://www.roplobsters.com/episodes/rop-e11/</guid>
+      <description>ROP-E11: HTML5 Audio ^ We&amp;rsquo;re back with episode 11! This time listen in to hear Austin and Nathan discuss how AI could be used to fool your Grandma, why Rust is the future of compiled code, and the reason you might want to pull out of your investment in the Gigabyte computer hardware company. Boy, oh boy do they have all the answers in this one!
+As always, reach out at roplobsters@gmail.</description>
+    </item>
+    
+  </channel>
+</rss>

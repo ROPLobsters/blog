@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>soft skills on ROP-Lobsters</title>
+    <link>https://www.roplobsters.com/tags/soft-skills/</link>
+    <description>Recent content in soft skills on ROP-Lobsters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 May 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/soft-skills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#10: United States Cyber Team Captain Sears Schulz, Russian Linux Distributions, and Connected SOCs in the European Union</title>
+      <link>https://www.roplobsters.com/episodes/rop-e10/</link>
+      <pubDate>Tue, 23 May 2023 00:01:02 -0800</pubDate>
+      
+      <guid>https://www.roplobsters.com/episodes/rop-e10/</guid>
+      <description>ROP-E10: HTML5 Audio ^ Join us for an interview with the United States Cyber Team&amp;rsquo;s captain, Sears Schulz. Sears is an Air Force cyber officer, an expert in fuzzing, and CTF champion. In the interview, Austin, Nathan, and Sears discuss how to build a championship CTF team, the intricacies of distributed fuzzing, and why soft skills are critical for cyber security professionals. Next, Austin, Nathan, and Sears discuss a new Russian Linux Distribution and the European Union&amp;rsquo;s plan to connect SOCs across the continent.</description>
+    </item>
+    
+  </channel>
+</rss>
