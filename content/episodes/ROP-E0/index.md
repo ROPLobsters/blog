@@ -7,3 +7,6 @@ draft: false
 
 {{< spotify type="episode" id="3k1moQRddL1kdahdrZqyNj" width="100%" height="250" >}}
 
+Welcome to the ROP Lobsters Podcast!
+
+This episode is a brief introduction to our podcast and the hosts, Austin and Nathan.
