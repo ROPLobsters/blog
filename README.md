@@ -12,6 +12,7 @@ Installation: https://gohugo.io/installation/
 This repo is powered by:
 - Hugo Framework - [link](https://gohugo.io/about/)
 - PaperMod Theme - [link](https://github.com/adityatelange/hugo-PaperMod/wiki/)
+- Castanet Theme - [link](https://github.com/mattstratton/castanet)
 
 #### Updating PaperMod theme
 

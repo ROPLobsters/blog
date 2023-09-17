@@ -1,6 +1,7 @@
 ---
 title: "> whoarewe"
-layout: "single"
+type: "about"       # Main directory in layouts
+layout: "single"    # The main HTML page name goes here
 url: "/about/"
 summary: about
 draft: false
