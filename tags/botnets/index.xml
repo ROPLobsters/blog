@@ -6,8 +6,17 @@
     <description>Recent content in Botnets on ROP-Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 00:01:02 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 21:30:00 -0800</lastBuildDate>
     <atom:link href="https://www.roplobsters.com/tags/botnets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#19: SolarWinds Deep Dive: What Happened? Then and Now</title>
+      <link>https://www.roplobsters.com/episodes/rop-e19/</link>
+      <pubDate>Wed, 29 Nov 2023 21:30:00 -0800</pubDate>
+      <guid>https://www.roplobsters.com/episodes/rop-e19/</guid>
+      <description>ROP-E19: HTML5 Audio ^ Join Austin and Nathan as they discuss the historic hack of SolarWinds. How did it happen? Why was it special? Why are we still talking about it?
+They&amp;rsquo;ll also discuss some of the recent legal and administrative proceedings around the fallout from the attack.
+Listen in!</description>
+    </item>
     <item>
       <title>#15: Citrix Backdoors, Post Quantum Crypto, Anti-bot AI, and Security for Kids</title>
       <link>https://www.roplobsters.com/episodes/rop-e15/</link>

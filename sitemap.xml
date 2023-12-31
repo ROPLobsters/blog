@@ -2,31 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.roplobsters.com/episodes/rop-e15/</loc>
-    <lastmod>2023-08-31T00:01:02-08:00</lastmod>
+    <loc>https://www.roplobsters.com/episodes/rop-e20/</loc>
+    <lastmod>2023-12-19T18:39:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/ai/</loc>
+    <lastmod>2023-12-19T18:39:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/episodes/</loc>
+    <lastmod>2023-12-19T18:39:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/eu/</loc>
+    <lastmod>2023-12-19T18:39:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/ransomware/</loc>
+    <lastmod>2023-12-19T18:39:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/regulations/</loc>
+    <lastmod>2023-12-19T18:39:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/</loc>
+    <lastmod>2023-12-19T18:39:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/</loc>
+    <lastmod>2023-12-19T18:39:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/episodes/rop-e19/</loc>
+    <lastmod>2023-11-29T21:30:00-08:00</lastmod>
   </url><url>
     <loc>https://www.roplobsters.com/tags/botnets/</loc>
-    <lastmod>2023-08-31T00:01:02-08:00</lastmod>
+    <lastmod>2023-11-29T21:30:00-08:00</lastmod>
   </url><url>
     <loc>https://www.roplobsters.com/tags/citrix/</loc>
+    <lastmod>2023-11-29T21:30:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/quantum/</loc>
+    <lastmod>2023-11-29T21:30:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/episodes/rop-e18/</loc>
+    <lastmod>2023-11-06T17:57:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/critical-infrastructure/</loc>
+    <lastmod>2023-11-06T17:57:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/design/</loc>
+    <lastmod>2023-11-06T17:57:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/nsa/</loc>
+    <lastmod>2023-11-06T17:57:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/vote/</loc>
+    <lastmod>2023-11-06T17:57:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/episodes/rop-e17/</loc>
+    <lastmod>2023-10-16T23:18:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/chatbot/</loc>
+    <lastmod>2023-10-16T23:18:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/exploit/</loc>
+    <lastmod>2023-10-16T23:18:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/libwebp/</loc>
+    <lastmod>2023-10-16T23:18:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/zero-day/</loc>
+    <lastmod>2023-10-16T23:18:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/episodes/rop-e16/</loc>
+    <lastmod>2023-09-21T15:18:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/aws/</loc>
+    <lastmod>2023-09-21T15:18:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/confidential-computing/</loc>
+    <lastmod>2023-09-21T15:18:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/mike-bursell/</loc>
+    <lastmod>2023-09-21T15:18:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/tags/side-channel-attacks/</loc>
+    <lastmod>2023-09-21T15:18:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.roplobsters.com/episodes/rop-e15/</loc>
     <lastmod>2023-08-31T00:01:02-08:00</lastmod>
   </url><url>
     <loc>https://www.roplobsters.com/tags/encryption/</loc>
     <lastmod>2023-08-31T00:01:02-08:00</lastmod>
   </url><url>
-    <loc>https://www.roplobsters.com/episodes/</loc>
-    <lastmod>2023-08-31T00:01:02-08:00</lastmod>
-  </url><url>
     <loc>https://www.roplobsters.com/tags/exploits/</loc>
-    <lastmod>2023-08-31T00:01:02-08:00</lastmod>
-  </url><url>
-    <loc>https://www.roplobsters.com/tags/quantum/</loc>
-    <lastmod>2023-08-31T00:01:02-08:00</lastmod>
-  </url><url>
-    <loc>https://www.roplobsters.com/</loc>
-    <lastmod>2023-08-31T00:01:02-08:00</lastmod>
-  </url><url>
-    <loc>https://www.roplobsters.com/tags/</loc>
     <lastmod>2023-08-31T00:01:02-08:00</lastmod>
   </url><url>
     <loc>https://www.roplobsters.com/tags/teaching/</loc>
@@ -53,16 +116,10 @@
     <loc>https://www.roplobsters.com/episodes/rop-e13/</loc>
     <lastmod>2023-07-19T00:01:02-08:00</lastmod>
   </url><url>
-    <loc>https://www.roplobsters.com/tags/confidential-computing/</loc>
-    <lastmod>2023-07-19T00:01:02-08:00</lastmod>
-  </url><url>
     <loc>https://www.roplobsters.com/tags/ddos/</loc>
     <lastmod>2023-07-19T00:01:02-08:00</lastmod>
   </url><url>
     <loc>https://www.roplobsters.com/tags/linux-security/</loc>
-    <lastmod>2023-07-19T00:01:02-08:00</lastmod>
-  </url><url>
-    <loc>https://www.roplobsters.com/tags/ransomware/</loc>
     <lastmod>2023-07-19T00:01:02-08:00</lastmod>
   </url><url>
     <loc>https://www.roplobsters.com/episodes/rop-e12/</loc>
@@ -84,9 +141,6 @@
     <lastmod>2023-06-20T00:01:02-08:00</lastmod>
   </url><url>
     <loc>https://www.roplobsters.com/episodes/rop-e11/</loc>
-    <lastmod>2023-06-06T00:01:02-08:00</lastmod>
-  </url><url>
-    <loc>https://www.roplobsters.com/tags/ai/</loc>
     <lastmod>2023-06-06T00:01:02-08:00</lastmod>
   </url><url>
     <loc>https://www.roplobsters.com/tags/backdoor/</loc>
@@ -111,9 +165,6 @@
     <lastmod>2023-05-23T00:01:02-08:00</lastmod>
   </url><url>
     <loc>https://www.roplobsters.com/tags/ctf/</loc>
-    <lastmod>2023-05-23T00:01:02-08:00</lastmod>
-  </url><url>
-    <loc>https://www.roplobsters.com/tags/eu/</loc>
     <lastmod>2023-05-23T00:01:02-08:00</lastmod>
   </url><url>
     <loc>https://www.roplobsters.com/tags/fuzzing/</loc>
@@ -242,16 +293,10 @@
     <loc>https://www.roplobsters.com/episodes/rop-e2/</loc>
     <lastmod>2023-01-23T00:03:02-08:00</lastmod>
   </url><url>
-    <loc>https://www.roplobsters.com/tags/critical-infrastructure/</loc>
-    <lastmod>2023-01-23T00:03:02-08:00</lastmod>
-  </url><url>
     <loc>https://www.roplobsters.com/tags/cyber-warfare/</loc>
     <lastmod>2023-01-23T00:03:02-08:00</lastmod>
   </url><url>
     <loc>https://www.roplobsters.com/tags/kernel/</loc>
-    <lastmod>2023-01-23T00:03:02-08:00</lastmod>
-  </url><url>
-    <loc>https://www.roplobsters.com/tags/nsa/</loc>
     <lastmod>2023-01-23T00:03:02-08:00</lastmod>
   </url><url>
     <loc>https://www.roplobsters.com/tags/ownership/</loc>

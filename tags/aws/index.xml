@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on ROP-Lobsters</title>
+    <link>https://www.roplobsters.com/tags/aws/</link>
+    <description>Recent content in AWS on ROP-Lobsters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Sep 2023 15:18:00 -0800</lastBuildDate>
+    <atom:link href="https://www.roplobsters.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#16: Mike Bursell and Confidential Computing</title>
+      <link>https://www.roplobsters.com/episodes/rop-e16/</link>
+      <pubDate>Thu, 21 Sep 2023 15:18:00 -0800</pubDate>
+      <guid>https://www.roplobsters.com/episodes/rop-e16/</guid>
+      <description>ROP-E16: HTML5 Audio ^ We are lucky to be joined by guest Mike Bursell for this episode. Mike is an Executive Director of the Confidential Computing Consortium, and an expert in confidential computing. Join Austin and Nathan as they explore the world of confidential computing, side channel attacks, and even a bit of patent law with Mike.</description>
+    </item>
+  </channel>
+</rss>

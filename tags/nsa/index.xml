@@ -6,8 +6,15 @@
     <description>Recent content in NSA on ROP-Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jan 2023 00:03:02 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2023 17:57:00 -0800</lastBuildDate>
     <atom:link href="https://www.roplobsters.com/tags/nsa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#18: Congressional Criticism of US Cyber Agency, NSA’s Secure by Design Guidance, Volt Typhoon Attacks, and DC Voter Data Compromise</title>
+      <link>https://www.roplobsters.com/episodes/rop-e18/</link>
+      <pubDate>Mon, 06 Nov 2023 17:57:00 -0800</pubDate>
+      <guid>https://www.roplobsters.com/episodes/rop-e18/</guid>
+      <description> ROP-E18: HTML5 Audio ^ Austin and Nathan are back at it again this time discussing ⁠congressional criticism of CISA⁠, the NSA’s new ⁠“Secure by Design” guidance⁠, ⁠Volt Typhoon attacks⁠ against United States critical infrastructure, and a recent hack ⁠compromising the personal information of DC voters⁠. </description>
+    </item>
     <item>
       <title>#2: Rust in the Linux Kernel, Cyber Warfare, and Attacks on Critical Infrastructure </title>
       <link>https://www.roplobsters.com/episodes/rop-e2/</link>

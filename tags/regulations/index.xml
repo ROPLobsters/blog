@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regulations on ROP-Lobsters</title>
+    <link>https://www.roplobsters.com/tags/regulations/</link>
+    <description>Recent content in Regulations on ROP-Lobsters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Dec 2023 18:39:00 -0800</lastBuildDate>
+    <atom:link href="https://www.roplobsters.com/tags/regulations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#20 European Union Rules on IOT Devices Security, Hospital Ransomware, and Generative AI&#39;s Application to Security</title>
+      <link>https://www.roplobsters.com/episodes/rop-e20/</link>
+      <pubDate>Tue, 19 Dec 2023 18:39:00 -0800</pubDate>
+      <guid>https://www.roplobsters.com/episodes/rop-e20/</guid>
+      <description>ROP-E20: HTML5 Audio ^ Join Austin and Nathan for the 20th episode of ROP Lobsters! This time, they discuss new regulations for ⁠secure consumer devices in the European Union⁠, recent ⁠ransomware attacks against hospitals⁠, and ⁠generative AI&amp;rsquo;s applications for cyber security.
+Happy Holidays!</description>
+    </item>
+  </channel>
+</rss>

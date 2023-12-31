@@ -6,8 +6,46 @@
     <description>Recent content on ROP-Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 00:01:02 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2023 18:39:00 -0800</lastBuildDate>
     <atom:link href="https://www.roplobsters.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#20 European Union Rules on IOT Devices Security, Hospital Ransomware, and Generative AI&#39;s Application to Security</title>
+      <link>https://www.roplobsters.com/episodes/rop-e20/</link>
+      <pubDate>Tue, 19 Dec 2023 18:39:00 -0800</pubDate>
+      <guid>https://www.roplobsters.com/episodes/rop-e20/</guid>
+      <description>ROP-E20: HTML5 Audio ^ Join Austin and Nathan for the 20th episode of ROP Lobsters! This time, they discuss new regulations for ⁠secure consumer devices in the European Union⁠, recent ⁠ransomware attacks against hospitals⁠, and ⁠generative AI&amp;rsquo;s applications for cyber security.
+Happy Holidays!</description>
+    </item>
+    <item>
+      <title>#19: SolarWinds Deep Dive: What Happened? Then and Now</title>
+      <link>https://www.roplobsters.com/episodes/rop-e19/</link>
+      <pubDate>Wed, 29 Nov 2023 21:30:00 -0800</pubDate>
+      <guid>https://www.roplobsters.com/episodes/rop-e19/</guid>
+      <description>ROP-E19: HTML5 Audio ^ Join Austin and Nathan as they discuss the historic hack of SolarWinds. How did it happen? Why was it special? Why are we still talking about it?
+They&amp;rsquo;ll also discuss some of the recent legal and administrative proceedings around the fallout from the attack.
+Listen in!</description>
+    </item>
+    <item>
+      <title>#18: Congressional Criticism of US Cyber Agency, NSA’s Secure by Design Guidance, Volt Typhoon Attacks, and DC Voter Data Compromise</title>
+      <link>https://www.roplobsters.com/episodes/rop-e18/</link>
+      <pubDate>Mon, 06 Nov 2023 17:57:00 -0800</pubDate>
+      <guid>https://www.roplobsters.com/episodes/rop-e18/</guid>
+      <description> ROP-E18: HTML5 Audio ^ Austin and Nathan are back at it again this time discussing ⁠congressional criticism of CISA⁠, the NSA’s new ⁠“Secure by Design” guidance⁠, ⁠Volt Typhoon attacks⁠ against United States critical infrastructure, and a recent hack ⁠compromising the personal information of DC voters⁠. </description>
+    </item>
+    <item>
+      <title>#17: John Hammond, Public AI Chats and a Libwebp Exploit</title>
+      <link>https://www.roplobsters.com/episodes/rop-e17/</link>
+      <pubDate>Mon, 16 Oct 2023 23:18:00 -0800</pubDate>
+      <guid>https://www.roplobsters.com/episodes/rop-e17/</guid>
+      <description>ROP-E17: HTML5 Audio ^ Austin and Nathan are joined by the one and only ⁠John Hammond⁠! John is phenomenal presence in the cyber security community and the conversation here covers a broad range of topics. Be sure to listen and learn with the lobsters. In this episode discussed is the recent exposure of user chat history with Google&amp;rsquo;s ⁠Bard AI chatbot and a new maximum severity exploit ⁠against libwebp⁠.</description>
+    </item>
+    <item>
+      <title>#16: Mike Bursell and Confidential Computing</title>
+      <link>https://www.roplobsters.com/episodes/rop-e16/</link>
+      <pubDate>Thu, 21 Sep 2023 15:18:00 -0800</pubDate>
+      <guid>https://www.roplobsters.com/episodes/rop-e16/</guid>
+      <description>ROP-E16: HTML5 Audio ^ We are lucky to be joined by guest Mike Bursell for this episode. Mike is an Executive Director of the Confidential Computing Consortium, and an expert in confidential computing. Join Austin and Nathan as they explore the world of confidential computing, side channel attacks, and even a bit of patent law with Mike.</description>
+    </item>
     <item>
       <title>#15: Citrix Backdoors, Post Quantum Crypto, Anti-bot AI, and Security for Kids</title>
       <link>https://www.roplobsters.com/episodes/rop-e15/</link>
