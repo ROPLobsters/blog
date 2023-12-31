@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on ROP-Lobsters</title>
     <link>https://www.roplobsters.com/tags/linux/</link>
     <description>Recent content in Linux on ROP-Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 00:01:02 -0800</lastBuildDate>
+    <atom:link href="https://www.roplobsters.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#10: United States Cyber Team Captain Sears Schulz, Russian Linux Distributions, and Connected SOCs in the European Union</title>
       <link>https://www.roplobsters.com/episodes/rop-e10/</link>
       <pubDate>Tue, 23 May 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/episodes/rop-e10/</guid>
       <description>ROP-E10: HTML5 Audio ^ Join us for an interview with the United States Cyber Team&amp;rsquo;s captain, Sears Schulz. Sears is an Air Force cyber officer, an expert in fuzzing, and CTF champion. In the interview, Austin, Nathan, and Sears discuss how to build a championship CTF team, the intricacies of distributed fuzzing, and why soft skills are critical for cyber security professionals. Next, Austin, Nathan, and Sears discuss a new Russian Linux Distribution and the European Union&amp;rsquo;s plan to connect SOCs across the continent.</description>
     </item>
-    
     <item>
       <title>#2: Rust in the Linux Kernel, Cyber Warfare, and Attacks on Critical Infrastructure </title>
       <link>https://www.roplobsters.com/episodes/rop-e2/</link>
       <pubDate>Mon, 23 Jan 2023 00:03:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/episodes/rop-e2/</guid>
       <description>ROP-E2: HTML5 Audio ^ Austin and Nathan discuss the inclusion of a new programming language to enhance the security of the Linux kernel, potential restructuring of the NSA and U.S. Cyber Command, cyber attacks against U.S. ports, and Gmail&amp;rsquo;s new client-side encryption features.</description>
     </item>
-    
   </channel>
 </rss>

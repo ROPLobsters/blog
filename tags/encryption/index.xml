@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>encryption on ROP-Lobsters</title>
     <link>https://www.roplobsters.com/tags/encryption/</link>
     <description>Recent content in encryption on ROP-Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Aug 2023 00:01:02 -0800</lastBuildDate>
+    <atom:link href="https://www.roplobsters.com/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#15: Citrix Backdoors, Post Quantum Crypto, Anti-bot AI, and Security for Kids</title>
       <link>https://www.roplobsters.com/episodes/rop-e15/</link>
       <pubDate>Thu, 31 Aug 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/episodes/rop-e15/</guid>
       <description>ROP-E15: HTML5 Audio ^ Austin and Nathan are back at it! This time they discuss a current epidemic of citrix device backdoor installations, and some recent publications detailing hopeful post-quantum cryptographic solutions. They also discuss the ways some are using AI to fight botnets and current efforts to give cyber security license training to students.</description>
     </item>
-    
     <item>
       <title>#2: Rust in the Linux Kernel, Cyber Warfare, and Attacks on Critical Infrastructure </title>
       <link>https://www.roplobsters.com/episodes/rop-e2/</link>
       <pubDate>Mon, 23 Jan 2023 00:03:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/episodes/rop-e2/</guid>
       <description>ROP-E2: HTML5 Audio ^ Austin and Nathan discuss the inclusion of a new programming language to enhance the security of the Linux kernel, potential restructuring of the NSA and U.S. Cyber Command, cyber attacks against U.S. ports, and Gmail&amp;rsquo;s new client-side encryption features.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CTF on ROP-Lobsters</title>
     <link>https://www.roplobsters.com/tags/ctf/</link>
     <description>Recent content in CTF on ROP-Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 00:01:02 -0800</lastBuildDate>
+    <atom:link href="https://www.roplobsters.com/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#10: United States Cyber Team Captain Sears Schulz, Russian Linux Distributions, and Connected SOCs in the European Union</title>
       <link>https://www.roplobsters.com/episodes/rop-e10/</link>
       <pubDate>Tue, 23 May 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/episodes/rop-e10/</guid>
       <description>ROP-E10: HTML5 Audio ^ Join us for an interview with the United States Cyber Team&amp;rsquo;s captain, Sears Schulz. Sears is an Air Force cyber officer, an expert in fuzzing, and CTF champion. In the interview, Austin, Nathan, and Sears discuss how to build a championship CTF team, the intricacies of distributed fuzzing, and why soft skills are critical for cyber security professionals. Next, Austin, Nathan, and Sears discuss a new Russian Linux Distribution and the European Union&amp;rsquo;s plan to connect SOCs across the continent.</description>
     </item>
-    
     <item>
       <title>#5: DEF CON Champion John Johnson, CTFs, The Stack, AI and Ethics</title>
       <link>https://www.roplobsters.com/episodes/rop-e5/</link>
       <pubDate>Wed, 22 Feb 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/episodes/rop-e5/</guid>
       <description>ROP-E5: HTML5 Audio ^ Austin and Nathan are joined this time by John Johnson, CTF champion extraordinaire. Listen in to hear John&amp;rsquo;s amazing story, as well as his thoughts on the future of security in a world impacted by increasingly sophisticated AI. Austin and Nathan also chime in with their thoughts and reminisce about learning all about the stack. Sadly, John doesn&amp;rsquo;t share how to win at Rocket League in this episode.</description>
     </item>
-    
     <item>
       <title>#3: Supply-Chain Attacks, the Future of Cryptocurrency and Cyber Crime, Governmental Ransomware Takedowns, and MITRE eCTF</title>
       <link>https://www.roplobsters.com/episodes/rop-e3/</link>
       <pubDate>Mon, 23 Jan 2023 00:04:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/episodes/rop-e3/</guid>
       <description>ROP-E3: HTML5 Audio ^ Austin and Nathan discuss the recent supply-chain attack targeting PyTorch, new trends in the use of cryptocurrency for cyber crime, governmental agencies stepping up to decrypt systems affected by ransomware, and embedded CTF competitions.</description>
     </item>
-    
   </channel>
 </rss>

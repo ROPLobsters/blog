@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PCB on ROP-Lobsters</title>
     <link>https://www.roplobsters.com/tags/pcb/</link>
     <description>Recent content in PCB on ROP-Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Feb 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/pcb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 00:01:02 -0800</lastBuildDate>
+    <atom:link href="https://www.roplobsters.com/tags/pcb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#5: DEF CON Champion John Johnson, CTFs, The Stack, AI and Ethics</title>
       <link>https://www.roplobsters.com/episodes/rop-e5/</link>
       <pubDate>Wed, 22 Feb 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/episodes/rop-e5/</guid>
       <description>ROP-E5: HTML5 Audio ^ Austin and Nathan are joined this time by John Johnson, CTF champion extraordinaire. Listen in to hear John&amp;rsquo;s amazing story, as well as his thoughts on the future of security in a world impacted by increasingly sophisticated AI. Austin and Nathan also chime in with their thoughts and reminisce about learning all about the stack. Sadly, John doesn&amp;rsquo;t share how to win at Rocket League in this episode.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,668 +1,523 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ROP-Lobsters</title>
     <link>https://www.roplobsters.com/tags/</link>
     <description>Recent content in Tags on ROP-Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Aug 2023 00:01:02 -0800</lastBuildDate>
+    <atom:link href="https://www.roplobsters.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Botnets</title>
       <link>https://www.roplobsters.com/tags/botnets/</link>
       <pubDate>Thu, 31 Aug 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/botnets/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Citrix</title>
       <link>https://www.roplobsters.com/tags/citrix/</link>
       <pubDate>Thu, 31 Aug 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/citrix/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>encryption</title>
       <link>https://www.roplobsters.com/tags/encryption/</link>
       <pubDate>Thu, 31 Aug 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/encryption/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>exploits</title>
       <link>https://www.roplobsters.com/tags/exploits/</link>
       <pubDate>Thu, 31 Aug 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/exploits/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>quantum</title>
       <link>https://www.roplobsters.com/tags/quantum/</link>
       <pubDate>Thu, 31 Aug 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/quantum/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>teaching</title>
       <link>https://www.roplobsters.com/tags/teaching/</link>
       <pubDate>Thu, 31 Aug 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/teaching/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>IOT</title>
       <link>https://www.roplobsters.com/tags/iot/</link>
       <pubDate>Tue, 08 Aug 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/iot/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>labels</title>
       <link>https://www.roplobsters.com/tags/labels/</link>
       <pubDate>Tue, 08 Aug 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/labels/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>nutrition</title>
       <link>https://www.roplobsters.com/tags/nutrition/</link>
       <pubDate>Tue, 08 Aug 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/nutrition/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>philosophy</title>
       <link>https://www.roplobsters.com/tags/philosophy/</link>
       <pubDate>Tue, 08 Aug 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/philosophy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>verification</title>
       <link>https://www.roplobsters.com/tags/verification/</link>
       <pubDate>Tue, 08 Aug 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/verification/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Confidential Computing</title>
       <link>https://www.roplobsters.com/tags/confidential-computing/</link>
       <pubDate>Wed, 19 Jul 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/confidential-computing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DDOS</title>
       <link>https://www.roplobsters.com/tags/ddos/</link>
       <pubDate>Wed, 19 Jul 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/ddos/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Linux Security</title>
       <link>https://www.roplobsters.com/tags/linux-security/</link>
       <pubDate>Wed, 19 Jul 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/linux-security/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ransomware</title>
       <link>https://www.roplobsters.com/tags/ransomware/</link>
       <pubDate>Wed, 19 Jul 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/ransomware/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>governance</title>
       <link>https://www.roplobsters.com/tags/governance/</link>
       <pubDate>Tue, 20 Jun 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/governance/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>malware</title>
       <link>https://www.roplobsters.com/tags/malware/</link>
       <pubDate>Tue, 20 Jun 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/malware/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>rootkits</title>
       <link>https://www.roplobsters.com/tags/rootkits/</link>
       <pubDate>Tue, 20 Jun 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/rootkits/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>spiderman</title>
       <link>https://www.roplobsters.com/tags/spiderman/</link>
       <pubDate>Tue, 20 Jun 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/spiderman/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>stealth</title>
       <link>https://www.roplobsters.com/tags/stealth/</link>
       <pubDate>Tue, 20 Jun 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/stealth/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AI</title>
       <link>https://www.roplobsters.com/tags/ai/</link>
       <pubDate>Tue, 06 Jun 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/ai/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>backdoor</title>
       <link>https://www.roplobsters.com/tags/backdoor/</link>
       <pubDate>Tue, 06 Jun 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/backdoor/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>BIOS</title>
       <link>https://www.roplobsters.com/tags/bios/</link>
       <pubDate>Tue, 06 Jun 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/bios/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Gigabyte</title>
       <link>https://www.roplobsters.com/tags/gigabyte/</link>
       <pubDate>Tue, 06 Jun 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/gigabyte/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Rust</title>
       <link>https://www.roplobsters.com/tags/rust/</link>
       <pubDate>Tue, 06 Jun 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/rust/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>supply chain</title>
       <link>https://www.roplobsters.com/tags/supply-chain/</link>
       <pubDate>Tue, 06 Jun 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/supply-chain/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Air Force</title>
       <link>https://www.roplobsters.com/tags/air-force/</link>
       <pubDate>Tue, 23 May 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/air-force/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CTF</title>
       <link>https://www.roplobsters.com/tags/ctf/</link>
       <pubDate>Tue, 23 May 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/ctf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>EU</title>
       <link>https://www.roplobsters.com/tags/eu/</link>
       <pubDate>Tue, 23 May 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/eu/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>fuzzing</title>
       <link>https://www.roplobsters.com/tags/fuzzing/</link>
       <pubDate>Tue, 23 May 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/fuzzing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Linux</title>
       <link>https://www.roplobsters.com/tags/linux/</link>
       <pubDate>Tue, 23 May 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/linux/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SOCs</title>
       <link>https://www.roplobsters.com/tags/socs/</link>
       <pubDate>Tue, 23 May 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/socs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>soft skills</title>
       <link>https://www.roplobsters.com/tags/soft-skills/</link>
       <pubDate>Tue, 23 May 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/soft-skills/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>browsers</title>
       <link>https://www.roplobsters.com/tags/browsers/</link>
       <pubDate>Tue, 09 May 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/browsers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>existential threat</title>
       <link>https://www.roplobsters.com/tags/existential-threat/</link>
       <pubDate>Tue, 09 May 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/existential-threat/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>hacker</title>
       <link>https://www.roplobsters.com/tags/hacker/</link>
       <pubDate>Tue, 09 May 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/hacker/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>scams</title>
       <link>https://www.roplobsters.com/tags/scams/</link>
       <pubDate>Tue, 09 May 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/scams/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>social engineering</title>
       <link>https://www.roplobsters.com/tags/social-engineering/</link>
       <pubDate>Tue, 09 May 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/social-engineering/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CAN</title>
       <link>https://www.roplobsters.com/tags/can/</link>
       <pubDate>Thu, 13 Apr 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/can/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Car</title>
       <link>https://www.roplobsters.com/tags/car/</link>
       <pubDate>Thu, 13 Apr 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/car/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>IRS</title>
       <link>https://www.roplobsters.com/tags/irs/</link>
       <pubDate>Thu, 13 Apr 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/irs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>TAX</title>
       <link>https://www.roplobsters.com/tags/tax/</link>
       <pubDate>Thu, 13 Apr 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/tax/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>traffic intercept</title>
       <link>https://www.roplobsters.com/tags/traffic-intercept/</link>
       <pubDate>Thu, 13 Apr 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/traffic-intercept/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>wifi</title>
       <link>https://www.roplobsters.com/tags/wifi/</link>
       <pubDate>Thu, 13 Apr 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/wifi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>critical systems</title>
       <link>https://www.roplobsters.com/tags/critical-systems/</link>
       <pubDate>Wed, 29 Mar 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/critical-systems/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>history</title>
       <link>https://www.roplobsters.com/tags/history/</link>
       <pubDate>Wed, 29 Mar 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/history/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>water</title>
       <link>https://www.roplobsters.com/tags/water/</link>
       <pubDate>Wed, 29 Mar 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/water/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>government</title>
       <link>https://www.roplobsters.com/tags/government/</link>
       <pubDate>Sun, 12 Mar 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/government/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>LastPass</title>
       <link>https://www.roplobsters.com/tags/lastpass/</link>
       <pubDate>Sun, 12 Mar 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/lastpass/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>law</title>
       <link>https://www.roplobsters.com/tags/law/</link>
       <pubDate>Sun, 12 Mar 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/law/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>leak</title>
       <link>https://www.roplobsters.com/tags/leak/</link>
       <pubDate>Sun, 12 Mar 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/leak/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>password</title>
       <link>https://www.roplobsters.com/tags/password/</link>
       <pubDate>Sun, 12 Mar 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/password/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Defcon</title>
       <link>https://www.roplobsters.com/tags/defcon/</link>
       <pubDate>Wed, 22 Feb 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/defcon/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PCB</title>
       <link>https://www.roplobsters.com/tags/pcb/</link>
       <pubDate>Wed, 22 Feb 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/pcb/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>sport</title>
       <link>https://www.roplobsters.com/tags/sport/</link>
       <pubDate>Wed, 22 Feb 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/sport/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>stack</title>
       <link>https://www.roplobsters.com/tags/stack/</link>
       <pubDate>Wed, 22 Feb 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/stack/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2FA</title>
       <link>https://www.roplobsters.com/tags/2fa/</link>
       <pubDate>Mon, 13 Feb 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/2fa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>authentication</title>
       <link>https://www.roplobsters.com/tags/authentication/</link>
       <pubDate>Mon, 13 Feb 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/authentication/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>bug bounty</title>
       <link>https://www.roplobsters.com/tags/bug-bounty/</link>
       <pubDate>Mon, 13 Feb 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/bug-bounty/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>warfare</title>
       <link>https://www.roplobsters.com/tags/warfare/</link>
       <pubDate>Mon, 13 Feb 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/warfare/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>crypto</title>
       <link>https://www.roplobsters.com/tags/crypto/</link>
       <pubDate>Mon, 23 Jan 2023 00:04:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/crypto/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MITRE</title>
       <link>https://www.roplobsters.com/tags/mitre/</link>
       <pubDate>Mon, 23 Jan 2023 00:04:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/mitre/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>python</title>
       <link>https://www.roplobsters.com/tags/python/</link>
       <pubDate>Mon, 23 Jan 2023 00:04:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>critical Infrastructure</title>
       <link>https://www.roplobsters.com/tags/critical-infrastructure/</link>
       <pubDate>Mon, 23 Jan 2023 00:03:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/critical-infrastructure/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>cyber warfare</title>
       <link>https://www.roplobsters.com/tags/cyber-warfare/</link>
       <pubDate>Mon, 23 Jan 2023 00:03:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/cyber-warfare/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>kernel</title>
       <link>https://www.roplobsters.com/tags/kernel/</link>
       <pubDate>Mon, 23 Jan 2023 00:03:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/kernel/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>NSA</title>
       <link>https://www.roplobsters.com/tags/nsa/</link>
       <pubDate>Mon, 23 Jan 2023 00:03:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/nsa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ownership</title>
       <link>https://www.roplobsters.com/tags/ownership/</link>
       <pubDate>Mon, 23 Jan 2023 00:03:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/ownership/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>compliance</title>
       <link>https://www.roplobsters.com/tags/compliance/</link>
       <pubDate>Mon, 23 Jan 2023 00:02:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/compliance/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>detection</title>
       <link>https://www.roplobsters.com/tags/detection/</link>
       <pubDate>Mon, 23 Jan 2023 00:02:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/detection/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>hashing</title>
       <link>https://www.roplobsters.com/tags/hashing/</link>
       <pubDate>Mon, 23 Jan 2023 00:02:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/hashing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>signatures</title>
       <link>https://www.roplobsters.com/tags/signatures/</link>
       <pubDate>Mon, 23 Jan 2023 00:02:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/signatures/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>TikTok</title>
       <link>https://www.roplobsters.com/tags/tiktok/</link>
       <pubDate>Mon, 23 Jan 2023 00:02:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/tags/tiktok/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

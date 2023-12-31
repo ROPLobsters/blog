@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>critical systems on ROP-Lobsters</title>
     <link>https://www.roplobsters.com/tags/critical-systems/</link>
     <description>Recent content in critical systems on ROP-Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Mar 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/critical-systems/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Mar 2023 00:01:02 -0800</lastBuildDate>
+    <atom:link href="https://www.roplobsters.com/tags/critical-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#7 Cyber Expert Michael Miora, SCADA Systems, the EPA, and the Banking Crisis</title>
       <link>https://www.roplobsters.com/episodes/rop-e7/</link>
       <pubDate>Wed, 29 Mar 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/episodes/rop-e7/</guid>
       <description>ROP-E7: HTML5 Audio ^ Austin and Nathan are joined by Michael Miora, one of the founding fathers of cybersecurity. Together they discuss a variety of topics including Michael&amp;rsquo;s career, new regulations from the EPA, and the effect that the current financial instability has on the world of cybersecurity. Be sure to listen in!</description>
     </item>
-    
   </channel>
 </rss>

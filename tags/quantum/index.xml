@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>quantum on ROP-Lobsters</title>
     <link>https://www.roplobsters.com/tags/quantum/</link>
     <description>Recent content in quantum on ROP-Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 00:01:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/quantum/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Aug 2023 00:01:02 -0800</lastBuildDate>
+    <atom:link href="https://www.roplobsters.com/tags/quantum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#15: Citrix Backdoors, Post Quantum Crypto, Anti-bot AI, and Security for Kids</title>
       <link>https://www.roplobsters.com/episodes/rop-e15/</link>
       <pubDate>Thu, 31 Aug 2023 00:01:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/episodes/rop-e15/</guid>
       <description>ROP-E15: HTML5 Audio ^ Austin and Nathan are back at it! This time they discuss a current epidemic of citrix device backdoor installations, and some recent publications detailing hopeful post-quantum cryptographic solutions. They also discuss the ways some are using AI to fight botnets and current efforts to give cyber security license training to students.</description>
     </item>
-    
   </channel>
 </rss>

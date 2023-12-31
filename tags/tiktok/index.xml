@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TikTok on ROP-Lobsters</title>
     <link>https://www.roplobsters.com/tags/tiktok/</link>
     <description>Recent content in TikTok on ROP-Lobsters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jan 2023 00:02:02 -0800</lastBuildDate><atom:link href="https://www.roplobsters.com/tags/tiktok/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jan 2023 00:02:02 -0800</lastBuildDate>
+    <atom:link href="https://www.roplobsters.com/tags/tiktok/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#1: Signature-Based Detection, Weak Hashes, TikTok Malware, and More!</title>
       <link>https://www.roplobsters.com/episodes/rop-e1/</link>
       <pubDate>Mon, 23 Jan 2023 00:02:02 -0800</pubDate>
-      
       <guid>https://www.roplobsters.com/episodes/rop-e1/</guid>
       <description>ROP-E1: HTML5 Audio ^ Austin and Nathan rant about the failings of signature based detection, explore the impact of weak hashing algorithms, discuss proposed requirements to add cybersecurity experts to corporate boards, the success of TikTok malware, and more!</description>
     </item>
-    
   </channel>
 </rss>
